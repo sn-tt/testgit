@@ -12,7 +12,8 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // put your code here
+        // put your code here /// save it
+        // save 2
         ?>
     </body>
 </html>
